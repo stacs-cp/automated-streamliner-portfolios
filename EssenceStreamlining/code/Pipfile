@@ -9,7 +9,7 @@ verify_ssl = true
 networkx = "*"
 pipfile = "*"
 appdirs = "==1.4.4"
-certifi = "==2021.5.30"
+certifi = "==2023.7.22"
 distlib = "==0.3.2"
 filelock = "==3.0.12"
 pipenv = "==2022.1.8"
